@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-community
+langchain-google-genai
+langchain-classic
+langchainhub
+python-dotenv
+duckduckgo-search
